@@ -1,0 +1,10 @@
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.fsprojAssemblyReference.cache
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.fs
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
+/Users/mauget/RiderProjects/Solution1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb
